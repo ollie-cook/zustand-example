@@ -18,8 +18,8 @@ export default function Home() {
         </ServerComponent>
       </BgColourProvider>
       <div className="absolute bottom-12 sm:left-1/2 md:bottom-1 sm:-translate-x-1/2 text-center text-sm">
-        <p>View the source code <a href="https://github.com/ollie-cook/react-context-example" target="_blank" className="underline">here</a>.</p>
-        <p>I used the <a href="https://react.dev/reference/react/createContext" target="_blank" className="underline">docs</a> and <a href="https://www.pronextjs.dev/tutorials/state-management" target="_blank" className="underline">this</a> tutorial by Jack Herrington.</p>
+        <p>View the source code <a href="https://github.com/ollie-cook/zustand-example" target="_blank" className="underline">here</a>.</p>
+        <p>I used the <a href="https://docs.pmnd.rs/zustand/getting-started/introduction" target="_blank" className="underline">docs</a> and <a href="https://www.pronextjs.dev/tutorials/state-management/zustand-for-state-management/state-management-with-zustand" target="_blank" className="underline">this</a> tutorial by Jack Herrington.</p>
       </div>  
     </main>
   );
